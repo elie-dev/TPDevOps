@@ -1,11 +1,13 @@
 
 
-Projet DevObs CI/CD : Elie GUILBAUD & Morgan NOTT
+## Projet DevObs CI/CD : Elie GUILBAUD & Morgan NOTT
 
 
-Description du projet : Ce projet a été effectué dans le cadre d'un cours DevOps sur l'intégration et le déploiement 
-                        continu. Il a été réalisé en utilisant Docker, SonarCloud, GitHub Action, le déploiement 
-                        a été effectué sur Heroku.
+#### Description du projet : 
+
+Ce projet a été effectué dans le cadre d'un cours DevOps sur l'intégration et le déploiement 
+continu. Il a été réalisé en utilisant Docker, SonarCloud, GitHub Action, le déploiement 
+a été effectué sur Heroku.
 
 
 
@@ -16,6 +18,7 @@ Les Tests de qualité sont directement réalisés par SonarCloud
 Les Tests de sécurité (scan des dépendances) sont effectués par le workflow : dependency-review.yml
 
 Le déploiement est effectué par le workflow : deployHeroku.yml
+lien vers l'application en ligne  : https://tpdevops123.herokuapp.com/
 
 
 
